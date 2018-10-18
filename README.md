@@ -37,4 +37,6 @@ collection将关联查询信息映射到一个list集合中
 
 项目用到的需求:查询用户以及用户购买的商品信息
 
+项目的具体细节可以参考本博主的csdn博客文章https://blog.csdn.net/qq_38931949/article/details/83151745
+
 
